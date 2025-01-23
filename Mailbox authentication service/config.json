@@ -1,0 +1,17 @@
+{
+    "email":{
+        "user":"fni049648@163.com",
+        "pass":"SX7TyhP4g25vmCab"
+    },
+    "mysql":{
+        "host":"localhost",
+        "port":3306,
+        "pass":123456
+    },
+    "redis":{
+        "host":"localhost",
+        "port":6379,
+        "passwd":123456
+    }
+}
+
